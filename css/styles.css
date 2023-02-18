@@ -1,0 +1,176 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.nombre_Studio {
+  color: #2196f3;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+}
+
+.titulo_principal {
+  color: #ffffff;
+  background-color: #2f303a;
+  width: 1600px;
+  top: 80px;
+  text-align: center;
+  height: 200px;
+  left: -4px;
+  top: 280px;
+}
+
+.boton-Titulo-Principal {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 32px;
+  gap: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.boton-Titulo-Principal:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.onHover {
+  color: #212121;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.onHover:hover {
+  color: #2196f3;
+}
+
+.onHover:focus {
+  color: #2196f3;
+}
+
+.subtitulos {
+  color: #212121;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.subparrafos {
+  color: #757575;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.titulos-secundarios {
+  color: #212121;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.seccion-equipo {
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1510px;
+  background: #f5f4fa;
+}
+
+.lista-equipo {
+  float: left;
+}
+
+.final-de-pagina {
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 3158px;
+  background: #2f303a;
+}
+
+.letras-pie-pagina {
+  color: #2196f3;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+
+.pie-de-pagina {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 2258px;
+}
+
+.datos-contacto {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 2306px;
+}
+
+.boton-Titulo-Principal-Portafolio {
+  color: #212121;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 32px;
+  gap: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.boton-Titulo-Principal-Portafolio:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+}
